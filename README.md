@@ -16,7 +16,7 @@ Users enter search criteria such as city, state or shape into the webpage.  The 
 
 ![header](images/filter_search.png)  ![header](images/filter_code.png) 
 
-Through the `d3.selectAll()` function, when a change takes place to the HTML DOM element with the id tag, the function function updateFilters() is triggered:
+Through the `d3.selectAll()` function, when a change takes place to the HTML DOM element with the id tag, the function updateFilters() is triggered:
 
 ![header](images/conlsole_log.png) 
 
