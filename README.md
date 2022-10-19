@@ -8,7 +8,7 @@ Javascript
 
 This project primarily uses HTML and JavaScript to create an interactive webpage that takes information entered by the user - properties in the Document Object Model (DOM) - to parse and return back queries from the object 'data' on UFO sightings.  
 
-**View the page [here:](https://halesoysters.github.io/)**
+## **View the page [here:](https://halesoysters.github.io/)**
 
 ## Results
 
